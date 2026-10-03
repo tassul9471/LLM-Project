@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Taskeen Sultana (Admin)",
+    "email": "jawadshariff405@gmail.com",
+    "passwordHash": "$2b$10$9KgwqMr.cNlfGxmxe6JGleU77Ea9wnE4D/dDw1LXOYt4QBjx1S/kC",
+    "role": "admin",
+    "_id": "36799c13f7f5bc4e54a9b519",
+    "createdAt": "2026-09-20T08:00:00.000Z",
+    "updatedAt": "2026-09-28T06:06:03.513Z"
+  },
+  {
+    "name": "System Administrator",
+    "email": "admin@aiadgenerator.com",
+    "passwordHash": "$2b$10$9KgwqMr.cNlfGxmxe6JGleU77Ea9wnE4D/dDw1LXOYt4QBjx1S/kC",
+    "role": "admin",
+    "_id": "admin0000000000000000001",
+    "createdAt": "2026-09-15T05:00:00.000Z",
+    "updatedAt": "2026-09-28T05:00:00.000Z"
+  },
+  {
+    "name": "Alex Sharma",
+    "email": "alex@example.com",
+    "passwordHash": "$2b$10$LllHHBZXReH8PO4odROCS.rnNJqubRg8PXgyWTlEK5C1Vzx0e.E1S",
+    "role": "user",
+    "_id": "3d727fa3a7086b3e2d7df624",
+    "createdAt": "2026-09-22T09:30:00.000Z",
+    "updatedAt": "2026-09-28T06:02:55.595Z"
+  },
+  {
+    "name": "Priya Patel",
+    "email": "priya.patel@techstartup.io",
+    "passwordHash": "$2b$10$LllHHBZXReH8PO4odROCS.rnNJqubRg8PXgyWTlEK5C1Vzx0e.E1S",
+    "role": "user",
+    "_id": "4e828fa3a7086b3e2d7df635",
+    "createdAt": "2026-09-24T11:15:00.000Z",
+    "updatedAt": "2026-09-24T11:15:00.000Z"
+  },
+  {
+    "name": "Marcus Vance",
+    "email": "marcus.vance@brandstudio.com",
+    "passwordHash": "$2b$10$LllHHBZXReH8PO4odROCS.rnNJqubRg8PXgyWTlEK5C1Vzx0e.E1S",
+    "role": "user",
+    "_id": "5f939fa3a7086b3e2d7df646",
+    "createdAt": "2026-09-26T14:40:00.000Z",
+    "updatedAt": "2026-09-26T14:40:00.000Z"
+  }
+]

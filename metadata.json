@@ -1,0 +1,8 @@
+{
+  "name": "AI Ad Generator — Product Advertisement Generator",
+  "description": "Turn product details into structured, ready-to-use advertisements with AI. Generate headlines, taglines, social copy, descriptions, and promotional messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
